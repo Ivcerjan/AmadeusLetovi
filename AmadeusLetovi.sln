@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmadeusLetovi", "AmadeusLetovi\AmadeusLetovi.csproj", "{1D2E1AD2-AAD4-40E2-AA7B-A9294102049C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amadeus", "amadeus\amadeus.csproj", "{A2E7BA38-E2D2-421E-BA1E-74B0AFDA507A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2E1AD2-AAD4-40E2-AA7B-A9294102049C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2E1AD2-AAD4-40E2-AA7B-A9294102049C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2E1AD2-AAD4-40E2-AA7B-A9294102049C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2E1AD2-AAD4-40E2-AA7B-A9294102049C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E7BA38-E2D2-421E-BA1E-74B0AFDA507A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E7BA38-E2D2-421E-BA1E-74B0AFDA507A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E7BA38-E2D2-421E-BA1E-74B0AFDA507A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E7BA38-E2D2-421E-BA1E-74B0AFDA507A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15B4583-A16B-43D5-8999-32CF1C56C7DE}
+	EndGlobalSection
+EndGlobal
